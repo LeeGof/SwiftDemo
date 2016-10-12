@@ -1,0 +1,7 @@
+github "duemunk/Async"
+github "Alamofire/Alamofire"
+github "SwiftyJSON/SwiftyJSON"
+github "SnapKit/SnapKit"
+github "onevcat/Kingfisher"
+github "ReactiveCocoa/ReactiveCocoa"
+github "ReactiveX/RxSwift"
